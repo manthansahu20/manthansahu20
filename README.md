@@ -25,9 +25,7 @@
 ### 📊 **GitHub Stats**
 ![Manthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manthan20&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan20&layout=compact&theme=tokyonight)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan20&langs_count=3&layout=compact&theme=tokyonight&hide=javascript,html,css)
 
 ### 🌟 **Quotes I Follow**
 - 🌱 *"Learning never stops, growth never ends."*  
