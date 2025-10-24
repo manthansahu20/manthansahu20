@@ -14,13 +14,18 @@
 
 ---
 
-### 🧑‍💻 **Tech Stack**
-- **Languages:** Python, C, C++, SQL  
-- **Core Concepts:** Data Structures & Algorithms, OOP, DBMS  
-- **Tools & Platforms:** Git, GitHub, VS Code  
-- **Areas of Interest:** Machine Learning, AI, Cloud Computing  
+## 🧰 Tech Stack
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Machine Learning" width="45" height="45"/>
+</p>
 
 ### 📊 **GitHub Stats**
 ![Manthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manthan20&show_icons=true&theme=tokyonight)  
