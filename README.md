@@ -32,10 +32,11 @@
 - 🤖 **AI Chatbot** – A simple chatbot built using Python and NLP.
 - 📊 **Data Analyzer** – Visualizes CSV data using Python (Pandas + Matplotlib).
 
-### 📊 **GitHub Stats**
-![Manthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manthan20&show_icons=true&theme=tokyonight)  
+### 📈 My GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan20&langs_count=3&layout=compact&theme=tokyonight&hide=javascript,html,css)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manthansahu20&theme=radical&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manthansahu20&show_icons=true&theme=radical&count_private=true&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manthansahu20&layout=compact&theme=radical&hide_border=false)
 
 ### 🌟 **Quotes I Follow**
 - 🌱 *"Learning never stops, growth never ends."*  
