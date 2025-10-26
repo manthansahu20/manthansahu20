@@ -26,7 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Machine Learning" width="45" height="45"/>
 </p>
-## 🚀 Featured Projects
+
+### 🚀 Featured Projects
 - 🧩 **Memory Card Game** – A fun web game built using HTML, CSS, and JavaScript. [🔗 View Repo](https://github.com/manthansahu20/memory-card-game)
 - 🤖 **AI Chatbot** – A simple chatbot built using Python and NLP.
 - 📊 **Data Analyzer** – Visualizes CSV data using Python (Pandas + Matplotlib).
