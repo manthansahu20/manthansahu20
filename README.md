@@ -1,6 +1,5 @@
 # 👋 **Hi there, I'm Manthan Sahu**
 
-💻 **Exploring AI, Web Development, and Problem Solving through Code.**
 🌱 *"Always curious, always learning."*  
 💻 Passionate **Programmer | Tech Enthusiast | Lifelong Learner**  
 
