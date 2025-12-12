@@ -1,43 +1,88 @@
-# 👋 Hi, I'm **Manthan Sahu**
+<!-- ULTRA ANIMATED HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2800&pause=900&color=FF00EA&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Manthan+Sahu+%F0%9F%91%8B;Programmer+%7C+Developer+%7C+Tech+Enthusiast;AI+%26+ML+Learner;Welcome+To+My+GitHub+World+%F0%9F%92%AB" />
+</p>
 
-💻 *Programmer | Tech Enthusiast | Lifelong Learner*  
-🌱 *Always curious. Always learning.*
-
----
-
-## 🚀 About Me
-I’m a passionate developer with a strong interest in **Software Development**, **Artificial Intelligence**, and **Machine Learning**.  
-I enjoy solving problems, building efficient solutions, and continuously improving my technical skills.  
-
-- 💡 Skilled in **Python, C, C++, SQL, JavaScript**  
-- 🧠 Enthusiastic about **AI, ML, and Data-Driven Applications**  
-- 🌐 Exploring **Web Development & Emerging Technologies**  
-- 🧩 Focused on writing clean, scalable, and efficient code  
-
----
-
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
+<!-- GRADIENT ANIMATED BAR -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com)  
-- 📧 **manthansahusahu@gmail.com**
+# 👨‍💻 About Me
+
+✨ I'm **Manthan Sahu**, a passionate developer who loves building clean and powerful software.
+
+🔹 Exploring **Software Development, AI, ML, & Web Technologies**  
+🔹 Skilled in **Python, C, C++, JavaScript, SQL**  
+🔹 Love writing **optimised + scalable code**  
+🔹 Currently pursuing **B.Sc in Computer Science**  
+🔹 Always learning. Always building. Always improving.
 
 ---
 
-✨ *“Turning ideas into reality through code.”*
+## ⚡ Tech Stack (Only Logos, Categorised)
 
+### 🟢 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,sql,java,typescript,rust,go" height="50" />
+</p>
+
+### 🔵 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,bootstrap,tailwind,mongodb,postgresql,redux,graphql" height="50" />
+</p>
+
+### 🟣 Tools & Platforms / Current Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws,figma,postman,heroku,vercel,flutter,keras,tensorflow" height="50" />
+</p>
+
+---
+
+<!-- ANIMATED WAVES -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+</p>
+
+---
+
+# 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manthansahu20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=FF00FF" height="180">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=manthansahu20&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" height="180">
+</p>
+
+---
+
+# 🔮 Activity Graph (Neon Animated)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manthansahu20&theme=tokyo-night&bg_color=0D1117&color=FF00FF&line=FF00FF&point=FFFFFF&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/manthansahu20">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  </a>
+  <a href="mailto:manthansahusahu@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
+</p>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# ✨ Final Quote  
+### _“Turning ideas into reality through code — one line at a time.”_ 🚀💜
