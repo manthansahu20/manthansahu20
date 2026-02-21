@@ -62,7 +62,7 @@
 
 # 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/manthansahu20">
+  <a href="https://www.linkedin.com/in/manthan-sahu-31190b384/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
   <a href="mailto:manthansahusahu@gmail.com">
