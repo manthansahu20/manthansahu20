@@ -30,17 +30,17 @@
 
 ### 🟢 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,sql,java,typescript,rust,go" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,sql,java," height="50" />
 </p>
 
 ### 🔵 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,bootstrap,tailwind,mongodb,postgresql,redux,graphql" height="50" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,,tailwind,mongodb" height="50" />
 </p>
 
 ### 🟣 Tools & Platforms / Current Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws,figma,postman,heroku,vercel,flutter,keras,tensorflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,flutter,,tensorflow" height="50" />
 </p>
 
 ---
