@@ -30,7 +30,7 @@
 
 ### 🟢 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,sql,java," height="50" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,,java," height="50" />
 </p>
 
 ### 🔵 Frameworks & Libraries
