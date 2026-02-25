@@ -10,15 +10,19 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 About Me  
 
-✨ I'm **Manthan Sahu**, a passionate developer who loves building clean and powerful software.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🔹 Exploring **Software Development, AI, ML, & Web Technologies**  
-🔹 Skilled in **Python, C, C++, JavaScript, SQL**  
-🔹 Love writing **optimised + scalable code**  
-🔹 Currently pursuing **B.Sc in Computer Science**  
-🔹 Always learning. Always building. Always improving.
+💎 I'm **Manthan Sahu**, a passionate and performance-driven developer.  
+⚡ I build scalable, clean, and efficient software solutions.  
+🚀 Focused on writing optimized code that solves real-world problems.  
+
+- 🎓 Pursuing **B.Sc in Computer Science**
+- 🤖 Exploring **AI, Machine Learning & System Design**
+- 🌐 Love working with Web Technologies
+- 📈 Constantly improving my problem-solving skills
+- 🔥 Consistency + Discipline = Growth
 
 ---
 
