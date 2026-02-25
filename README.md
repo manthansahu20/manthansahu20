@@ -35,12 +35,12 @@
 
 ### 🔵 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,,tailwind,mongodb" height="50" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind,mongodb" height="50" />
 </p>
 
 ### 🟣 Tools & Platforms / Current Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,flutter,,tensorflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,flutter,tensorflow" height="50" />
 </p>
 
 ---
