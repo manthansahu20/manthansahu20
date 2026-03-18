@@ -54,7 +54,9 @@
 
  <img src="https://streak-stats.demolab.com?user=manthansahu20&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" height="180">
 </p>
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansahu20&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
 ---
 
 # 🔮 Activity Graph (Neon Animated)
