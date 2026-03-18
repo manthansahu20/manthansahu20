@@ -57,7 +57,6 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansahu20&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
----
 
 # 🔮 Activity Graph (Neon Animated)
 <p align="center">
